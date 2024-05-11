@@ -1,0 +1,3 @@
+minmax = 1
+std = 2
+robust = 3
